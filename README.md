@@ -5,7 +5,7 @@ Smart Emergency Response System for Road Accidents
 
 Road accidents remain a leading cause of fatalities worldwide, with delayed emergency response being a critical factor in the loss of lives. This project presents a Smart Emergency Response System for Road Accidents that integrates cutting-edge sensor technology to automatically detect accidents and alert emergency services, potentially saving up to 50% of accident victims through rapid response.
 
-🎯** Problem Statement**
+🎯 **Problem Statement**
 
 Road accidents cause approximately 180,000 deaths annually in India
 
@@ -15,7 +15,7 @@ Remote and low-traffic areas often experience delayed emergency assistance
 
 Traditional accident reporting relies on human intervention, causing critical delays
 
-💡** Solution**
+💡 **Solution**
 
 Our system eliminates human dependency in accident reporting by providing:
 
